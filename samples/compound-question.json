@@ -1,0 +1,67 @@
+{
+  "measured": "2026-10-06, real API and database",
+  "question": "I need to travel for 3 days — how far in advance do I need to apply, and how does expense reimbursement work?",
+  "answer": "# Advance Notice for Travel Application\n\nThe required notice depends on whether the trip is **domestic or international** (the \"3 days\" you mentioned refers to the trip length, not the advance notice period — these are separate):\n\n- **Domestic travel** (within Singapore): at least **3 working days** before the travel date (Section 3.2)\n- **International travel**: at least **10 working days** before the travel date, to allow time for visa checks, flight booking, and budget approval. Urgent requests with less notice may still be approved at the department head's discretion, though this is discouraged due to higher costs (Section 3.2)\n\nNote: All business travel also requires manager approval *before any bookings are made* (Section 3.1).\n\n**Approval chain:** Domestic travel needs manager approval only; international travel, or any trip estimated above SGD 2,000, needs manager + Finance approval (Section 3.3).\n\n# Expense Reimbursement Process\n\n1. Book flights/accommodation through the Company's designated travel booking portal where available, once travel is approved.\n2. Costs during the trip (meals, local transport, incidentals) are reimbursed according to caps in the Expense Policy, and submitted with a valid receipt (Expense Policy, Sections 1 and 3.4 reference).\n3. Claims are routed first to your manager, then to Finance for final processing.\n4. Approved expenses are reimbursed via payroll within **10 business days** of Finance approval (Expense Policy, Section 2).\n5. Claims must be submitted within **90 days** of the expense date; late claims are not reimbursed except with written Finance director approval in exceptional circumstances (Expense Policy, Section 2.1).\n\n**Gap in retrieved content:** The specific dollar caps for meals/local transport/incidentals categories are referenced (\"caps and process set out in the Expense Policy\") but the actual cap amounts are not included in the retrieved content, so I cannot state them.\n\nIf combining the trip with personal leave, only business-travel days are reimbursable — this must be clearly marked when submitting the claim (Section 3.4).",
+  "sources": [
+    {
+      "file": "02_Work_Arrangements.md",
+      "excerpt": "3. Business Travel ### 3.1 When Travel Is Required Business travel may be required for client site visits, conferences, or inter-office collaboration (e.g. between the Singapore HQ and regional office",
+      "relevance": 0.5420448456975919
+    },
+    {
+      "file": "02_Work_Arrangements.md",
+      "excerpt": "the travel date. - **International travel** (regional or overseas): at least **10 working days** before the travel date, to allow time for visa checks, flight booking, and budget approval. Urgent inte",
+      "relevance": 0.49669894615424703
+    },
+    {
+      "file": "04_Technical_Handbook.md",
+      "excerpt": "library and state management conventions. 4. **Week 4 onward**: Deployment process (Section 5) and first independent feature, typically touching both backend and frontend. Employees joining into speci",
+      "relevance": 0.415841902246589
+    },
+    {
+      "file": "02_Work_Arrangements.md",
+      "excerpt": "client commitments. ### 2.3 How to Apply To apply for WFH: 1. Discuss your intended WFH schedule with your manager. 2. Submit a WFH request through the HR portal, indicating the day(s) of the week you",
+      "relevance": 0.379456907510757
+    },
+    {
+      "file": "02_Work_Arrangements.md",
+      "excerpt": "### 3.5 Travel Documentation and Insurance For international travel, employees are responsible for ensuring their passport is valid for at least 6 months beyond the travel date and for checking visa r",
+      "relevance": 0.37133953742149295
+    },
+    {
+      "file": "02_Work_Arrangements.md",
+      "excerpt": "approved, employees should book flights and accommodation through the Company's designated travel booking portal where available. Costs incurred during the trip (meals, local transport, incidentals) a",
+      "relevance": 0.751453869261427
+    },
+    {
+      "file": "03_Expense_Policy.md",
+      "excerpt": "# Expense Policy **Meridian Software Pte Ltd** **Last updated: January 2026** This document covers expense reimbursement for business travel and other work-related costs. For business travel approval ",
+      "relevance": 0.649667459686696
+    },
+    {
+      "file": "03_Expense_Policy.md",
+      "excerpt": "or ride-hailing over taxis where practical. ### 3.4 Other Categories Client entertainment, conference registration fees, and equipment purchases each have their own approval workflows and are not cove",
+      "relevance": 0.590732441675505
+    },
+    {
+      "file": "03_Expense_Policy.md",
+      "excerpt": "the relevant project code if the expense relates to a specific client project — see Project Procedures). 3. Submit for approval. Expenses are routed first to your manager, then to Finance for final pr",
+      "relevance": 0.5354151725769201
+    },
+    {
+      "file": "03_Expense_Policy.md",
+      "excerpt": "extended medical leave and unable to submit). There is no general provision for reimbursing expenses from a prior calendar year once the 90-day window has passed. ### 2.2 Corporate Cards and Cash Adva",
+      "relevance": 0.527891761753979
+    }
+  ],
+  "reasoning_steps": {
+    "query_complexity": "compound",
+    "sub_queries_used": [
+      "How far in advance do I need to apply for a 3-day business trip?",
+      "How does expense reimbursement work for business travel?"
+    ],
+    "reflection_iterations": 0,
+    "answer_confidence": "complete"
+  },
+  "latency_ms": 12349
+}

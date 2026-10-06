@@ -1,0 +1,41 @@
+{
+  "measured": "2026-10-06, real API and database",
+  "question": "How many annual leave days do I get?",
+  "answer": "Confirmed employees are entitled to **22 days of annual leave per calendar year**, pro-rated for those who join partway through the year (Section 3.1).\n\nAdditional notes from the retrieved content:\n- Annual leave does not carry over to the next year — unused leave is forfeited on December 31, except where local employment law requires otherwise (Section 3.1; FAQ in Section 6).\n- Leave must be applied for via the HR portal at least 2 weeks in advance, except in emergencies where retroactive approval may be granted at the manager's discretion (Section 3.1).\n- Employees on probation may take annual leave, but it requires approval from both their manager and HR (Section 3.1).\n\nThe retrieved content does not specify whether the 22-day entitlement differs for non-confirmed (e.g., probationary) employees beyond the approval requirement noted above.",
+  "sources": [
+    {
+      "file": "01_Employee_Handbook.md",
+      "excerpt": "Work Arrangements document for details on flexible start times and core hours. ## 3. Leave Policy ### 3.1 Annual Leave Confirmed employees are entitled to **22 days of annual leave per calendar year**",
+      "relevance": 0.672362387180333
+    },
+    {
+      "file": "01_Employee_Handbook.md",
+      "excerpt": "(06_Benefits.md). This handbook covers only leave and career development; for insurance coverage, dependent coverage, and wellness allowances, refer to that document. ## 6. Frequently Asked Questions ",
+      "relevance": 0.523087297037954
+    },
+    {
+      "file": "01_Employee_Handbook.md",
+      "excerpt": "No. Annual leave does not carry over under any circumstances (Section 3.1); it is forfeited on December 31 each year, except where local law requires otherwise. **Q: Does medical leave count against m",
+      "relevance": 0.5024407658637711
+    },
+    {
+      "file": "01_Employee_Handbook.md",
+      "excerpt": "handled on a case-by-case basis in consultation with HR. ### 3.6 Public Holidays Meridian observes all 11 gazetted public holidays in Singapore each year, as published annually on the HR portal. Emplo",
+      "relevance": 0.501720815999557
+    },
+    {
+      "file": "01_Employee_Handbook.md",
+      "excerpt": "be granted at the manager's discretion. Leave requests are approved by the employee's direct manager and are subject to team coverage requirements. Employees on probation may take annual leave, but it",
+      "relevance": 0.475235206654836
+    }
+  ],
+  "reasoning_steps": {
+    "query_complexity": "simple",
+    "sub_queries_used": [
+      "How many annual leave days do I get?"
+    ],
+    "reflection_iterations": 0,
+    "answer_confidence": "complete"
+  },
+  "latency_ms": 5124
+}
