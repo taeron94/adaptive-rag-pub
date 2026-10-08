@@ -74,6 +74,10 @@ All mocked tests passed throughout. These appeared only against real infrastruct
 
 ![Grafana dashboard after the 10 test questions](assets/grafana-dashboard.png)
 
+- **A simple web page for live demos.** A question box with suggested questions, the answer streaming in, and the reasoning shown alongside it: simple or compound path, the sub-questions it searched for, reflection rounds, a confidence badge and every source. Plain HTML and JavaScript with a strict Content-Security-Policy; the demo key stays in a request header and never appears in a URL.
+
+![The demo page answering a compound question](assets/web-ui.png)
+
 **Next:** an on-demand AWS demo: Terraform, ECR, SSM, deployment through GitHub Actions with OIDC, no SSH and no long-lived keys.
 
 ## Tech stack
